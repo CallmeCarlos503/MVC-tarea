@@ -5,7 +5,7 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="e035eccb1ee34dcc805577ce16132f31" Name="Diagram1">
-        <EntityTypeShape EntityType="PeliculasModel.Peliculas" Width="3.125" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PeliculasModel.Peliculas" Width="3.125" PointX="2.5" PointY="0.5" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
